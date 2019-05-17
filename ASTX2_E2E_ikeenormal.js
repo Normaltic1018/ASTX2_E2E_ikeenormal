@@ -1,4 +1,4 @@
-/* ASTx 1.3 | (C) Copyright AhnLab, Inc. | $Revision: 20182 $ */
+/* ASTX2_E2E_ikeenormal */
 // Made By ikeeby and normaltic
 // /common/js/astx2.min.js
 // normaltic blog : normaltic.com
